@@ -114,10 +114,6 @@ Diploma in Computer Engineering
 
 ---
 
-## 💡 Quote
-
-> "Consistency beats talent when talent doesn't stay consistent."
-
 ---
 
 <p align="center">
