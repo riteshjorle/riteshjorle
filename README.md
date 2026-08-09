@@ -1,6 +1,9 @@
-# Hi 👋, I'm Ritesh Jorle
+<h1 align="center">Hi 👋, I'm Ritesh Jorle</h1>
+<h3 align="center">Diploma Computer Engineering Student | Aspiring Full Stack Web Developer</h3>
 
-### Diploma Computer Engineering Student | Aspiring Full Stack Web Developer
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Learning+Every+Day;Open+to+Internship+Opportunities;Building+Projects+with+HTML+CSS+JavaScript" />
+</p>
 
 ---
 
@@ -42,7 +45,6 @@
 ## 💼 Experience
 
 ### Full Stack Development Intern (Training)
-
 **Tech Surya IT Solution**
 
 - Building responsive websites
@@ -73,28 +75,41 @@ Diploma in Computer Engineering
 
 ## 📊 GitHub Stats
 
-![Ritesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=riteshjorle281-png&show_icons=true&theme=tokyonight)
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=riteshjorle&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riteshjorle&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
 ## 📈 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=riteshjorle281-png&theme=tokyo-night)
+[![Ritesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=riteshjorle&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=riteshjorle281-png&theme=tokyonight&margin-w=15)
+![](https://github-profile-trophy.vercel.app/?username=riteshjorle&theme=tokyonight&no-frame=false&no-bg=true)
 
 ---
 
 ## 🌐 Connect With Me
 
-<p>
-<a href="https://www.linkedin.com/in/ritesh-jorle-9b34a5427/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://github.com/riteshjorle281-png"><img src="https://skillicons.dev/icons?i=github" /></a>
-<a href="mailto:riteshjorle281@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<p align="left">
+
+<a href="https://www.linkedin.com/in/ritesh-jorle-9b34a5427/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:riteshjorle281@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/riteshjorle">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 ---
@@ -102,3 +117,13 @@ Diploma in Computer Engineering
 ## 💡 Quote
 
 > "Consistency beats talent when talent doesn't stay consistent."
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=riteshjorle&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
+<p align="center">
+⭐ Thanks for visiting my profile! ⭐
+</p>
