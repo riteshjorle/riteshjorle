@@ -90,7 +90,7 @@ Diploma in Computer Engineering
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy-dvcoe6tqq-riteshjorles-projects.vercel.app/?username=riteshjorle&theme=tokyonight&no-frame=false&no-bg=true)
+![](https://github-profile-trophy-psi-ebon.vercel.app/?username=riteshjorle&theme=tokyonight&no-frame=false&no-bg=true)
 
 ---
 
