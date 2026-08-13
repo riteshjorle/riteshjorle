@@ -125,5 +125,5 @@ Diploma in Computer Engineering
 </p> -->
 
 <p align="center">
-<h1 align="center"> ⭐ Thanks for visiting my profile! ⭐ </h1>
+<h2 align="center"> ⭐ Thanks for visiting my profile! ⭐ </h2>
 </p>
