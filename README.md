@@ -120,10 +120,10 @@ Diploma in Computer Engineering
 
 ---
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://komarev.com/ghpvc/?username=riteshjorle&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
+</p> -->
 
 <p align="center">
-⭐ Thanks for visiting my profile! ⭐
+<h1> ⭐ Thanks for visiting my profile! ⭐ </h1>
 </p>
