@@ -27,7 +27,7 @@
 
 ### Tools & Technologies
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,bootstrap,linux" />
+  <img src="https://skillicons.dev/icons?i=git,gitlab,vscode,bootstrap,linux" />
 </p>
 
 ---
