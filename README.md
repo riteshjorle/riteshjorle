@@ -97,15 +97,18 @@ Diploma in Computer Engineering
 ## 🌐 Connect With Me
 
 <p align="left">
-
-<a href="https://www.linkedin.com/in/ritesh-jorle-9b34a5427/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-
-<a href="mailto:riteshjorle281@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
-
-<a href="https://github.com/riteshjorle"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/> </a>
-
-<a href="https://gitlab.com/riteshjorle"> <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/> </a>
-
+  <a href="https://www.linkedin.com/in/ritesh-jorle-9b34a5427/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:riteshjorle281@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://github.com/riteshjorle">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://gitlab.com/riteshjorle">
+    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
+  </a>
 </p>
 
 ---
