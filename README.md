@@ -85,7 +85,6 @@ Diploma in Computer Engineering
 ## 📈 Contribution Graph
 
 ![Ritesh's GitHub Activity Graph](https://github-readme-activity-graph-person.vercel.app/graph?username=riteshjorle&theme=tokyo-night)
-
 ---
 
 ## 🏆 GitHub Trophies
